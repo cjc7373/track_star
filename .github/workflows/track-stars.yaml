@@ -23,6 +23,9 @@ jobs:
           repository: cjc7373/my_scripts
           path: my_scripts
 
+      # note github runners have python pre-installed
+      # for Ubuntu 22.04, the python version is 3.10
+      # See: https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners#preinstalled-software
       - name: install dependencies
         run: pip install requests
 
@@ -31,6 +34,8 @@ jobs:
 
       - name: commit and push changes
         run: |
+          git config --global user.name "emotionless_bot"
+          git config --global user.email "nothing@example.com"
           git add .
           git commit -m "daily update"
           git push
