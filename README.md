@@ -1,5 +1,11 @@
 ## 2023-01-24
 
+Deleted:
+- [cjc7373/track_star](https://github.com/cjc7373/track_star)
+
+
+## 2023-01-24
+
 Added:
 - [cjc7373/track_star](https://github.com/cjc7373/track_star)
 
