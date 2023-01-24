@@ -1,0 +1,35 @@
+on:
+  schedule:
+    - cron: "0 8 * * *"
+
+jobs:
+  track-stars:
+    runs-on: ubuntu-latest
+    defaults:
+      # docs: https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_iddefaultsrun
+      run:
+        working-directory: ./main
+    steps:
+      # checkout multiple repos: https://github.com/actions/checkout#checkout-multiple-repos-side-by-side
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          path: main
+
+      - name: Checkout tools repo
+        uses: actions/checkout@v3
+        with:
+          repository: cjc7373/my_scripts
+          path: my_scripts
+
+      - name: install dependencies
+        run: pip install requests
+
+      - name: run tracking stars script
+        run: python ../my_scripts/active/track_stars.py
+
+      - name: commit and push changes
+        run: |
+          git add .
+          git commit -m "daily update"
+          git push
