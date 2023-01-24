@@ -35,6 +35,7 @@ jobs:
         run: python ../my_scripts/active/track_stars.py
 
       # See: https://github.com/actions/checkout#push-a-commit-using-the-built-in-token
+      # Note we need to enable workflow write permission in the repo settings
       - name: commit and push changes
         run: |
           git config user.name github-actions
