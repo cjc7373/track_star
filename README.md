@@ -1,17 +1,5 @@
 ## 2023-01-24
 
-Deleted:
-- [cjc7373/track_star](https://github.com/cjc7373/track_star)
-
-
-## 2023-01-24
-
-Added:
-- [cjc7373/track_star](https://github.com/cjc7373/track_star)
-
-
-## 2023-01-24
-
 Added:
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets)
 - [kl/sub-batch](https://github.com/kl/sub-batch)
