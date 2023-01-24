@@ -39,7 +39,7 @@ jobs:
       # Note we need to enable workflow write permission in the repo settings
       - name: commit and push changes
         # git commit can return 1 if nothing to commit, so this step will fail
-        # a more elegent way is to get some info from the previous step,
+        # TODO: a more elegent way is to get some info from the previous step,
         # however, this is very difficult in Github Actions
         continue-on-error: true
         run: |
