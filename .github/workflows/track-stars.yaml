@@ -1,5 +1,6 @@
 on:
   schedule:
+    # Note the timezone is UTC
     - cron: "0 8 * * *"
   workflow_dispatch:  # this is for manually trigger workflow
 
