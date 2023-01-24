@@ -34,10 +34,11 @@ jobs:
       - name: run tracking stars script
         run: python ../my_scripts/active/track_stars.py
 
+      # See: https://github.com/actions/checkout#push-a-commit-using-the-built-in-token
       - name: commit and push changes
         run: |
-          git config --global user.name "emotionless_bot"
-          git config --global user.email "nothing@example.com"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add .
           git commit -m "daily update"
           git push
