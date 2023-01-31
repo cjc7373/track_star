@@ -1,3 +1,17 @@
+## 2023-01-31
+
+Added:
+- [xiaoyifang/goldendict](https://github.com/xiaoyifang/goldendict)
+
+
+Deleted:
+- [SukkaW/DisqusJS](https://github.com/SukkaW/DisqusJS)
+- [liolok/hexo-asset-link](https://github.com/liolok/hexo-asset-link)
+- [Molunerfinn/hexo-theme-melody](https://github.com/Molunerfinn/hexo-theme-melody)
+- [ppoffice/hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus)
+- [hex539/scoreboard](https://github.com/hex539/scoreboard)
+
+
 ## 2023-01-24
 
 Added:
