@@ -1,3 +1,15 @@
+## 2023-02-08
+
+Added:
+- [vuejs/language-tools](https://github.com/vuejs/language-tools)
+
+
+Deleted:
+- [darlinghq/darling](https://github.com/darlinghq/darling)
+- [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
+- [jergusg/k380-function-keys-conf](https://github.com/jergusg/k380-function-keys-conf)
+
+
 ## 2023-01-31
 
 Added:
