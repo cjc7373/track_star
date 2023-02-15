@@ -1,3 +1,15 @@
+## 2023-02-15
+
+Added:
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker)
+- [waydroid/waydroid](https://github.com/waydroid/waydroid)
+
+
+Deleted:
+- [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
+- [igrigorik/ga-beacon](https://github.com/igrigorik/ga-beacon)
+
+
 ## 2023-02-08
 
 Added:
