@@ -1,3 +1,9 @@
+## 2023-02-17
+
+Added:
+- [zu1k/nali](https://github.com/zu1k/nali)
+
+
 ## 2023-02-15
 
 Added:
