@@ -1,3 +1,9 @@
+## 2023-02-20
+
+Added:
+- [iovisor/bpftrace](https://github.com/iovisor/bpftrace)
+
+
 ## 2023-02-17
 
 Added:
