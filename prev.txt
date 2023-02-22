@@ -1,3 +1,4 @@
+[basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview)
 [iovisor/bpftrace](https://github.com/iovisor/bpftrace)
 [zu1k/nali](https://github.com/zu1k/nali)
 [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker)

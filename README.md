@@ -1,3 +1,9 @@
+## 2023-02-22
+
+Added:
+- [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview)
+
+
 ## 2023-02-20
 
 Added:
