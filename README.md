@@ -1,3 +1,9 @@
+## 2023-03-15
+
+Added:
+- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+
+
 ## 2023-02-22
 
 Added:

@@ -1,3 +1,4 @@
+[zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
 [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview)
 [iovisor/bpftrace](https://github.com/iovisor/bpftrace)
 [zu1k/nali](https://github.com/zu1k/nali)
