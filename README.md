@@ -1,3 +1,13 @@
+## 2023-03-16
+
+Added:
+- [grafana/pyroscope](https://github.com/grafana/pyroscope)
+
+
+Deleted:
+- [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope)
+
+
 ## 2023-03-15
 
 Added:

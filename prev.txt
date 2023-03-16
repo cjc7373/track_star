@@ -103,7 +103,7 @@
 [Nefelim4ag/systemd-swap](https://github.com/Nefelim4ag/systemd-swap)
 [zzh1996/USTC-Network-Resources](https://github.com/zzh1996/USTC-Network-Resources)
 [vinta/awesome-python](https://github.com/vinta/awesome-python)
-[pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope)
+[grafana/pyroscope](https://github.com/grafana/pyroscope)
 [vector-im/element-web](https://github.com/vector-im/element-web)
 [zsxsoft/my-beancount-scripts](https://github.com/zsxsoft/my-beancount-scripts)
 [deb-sig/double-entry-generator](https://github.com/deb-sig/double-entry-generator)
