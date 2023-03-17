@@ -1,3 +1,9 @@
+## 2023-03-17
+
+Added:
+- [wekan/wekan](https://github.com/wekan/wekan)
+
+
 ## 2023-03-16
 
 Added:
