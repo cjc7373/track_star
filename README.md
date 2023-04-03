@@ -1,3 +1,14 @@
+## 2023-04-03
+
+Added:
+- [typst/typst](https://github.com/typst/typst)
+- [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)
+
+
+Deleted:
+- [pellaeon/django-rest-framework-webdav](https://github.com/pellaeon/django-rest-framework-webdav)
+
+
 ## 2023-03-21
 
 Added:

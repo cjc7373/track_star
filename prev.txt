@@ -1,3 +1,5 @@
+[typst/typst](https://github.com/typst/typst)
+[Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)
 [SamR1/FitTrackee](https://github.com/SamR1/FitTrackee)
 [Vonng/pigsty](https://github.com/Vonng/pigsty)
 [wekan/wekan](https://github.com/wekan/wekan)
@@ -215,7 +217,6 @@
 [Liu233w/acm-statistics](https://github.com/Liu233w/acm-statistics)
 [ehForwarderBot/ehForwarderBot](https://github.com/ehForwarderBot/ehForwarderBot)
 [roblandry/pynetgear_enhanced](https://github.com/roblandry/pynetgear_enhanced)
-[pellaeon/django-rest-framework-webdav](https://github.com/pellaeon/django-rest-framework-webdav)
 [philc/vimium](https://github.com/philc/vimium)
 [Thobian/typora-plugins-win-img](https://github.com/Thobian/typora-plugins-win-img)
 [csseky/cskaoyan](https://github.com/csseky/cskaoyan)
