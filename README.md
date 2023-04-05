@@ -1,3 +1,9 @@
+## 2023-04-05
+
+Added:
+- [jimporter/mike](https://github.com/jimporter/mike)
+
+
 ## 2023-04-03
 
 Added:
