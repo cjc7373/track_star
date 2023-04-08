@@ -1,3 +1,9 @@
+## 2023-04-08
+
+Added:
+- [harness/drone](https://github.com/harness/drone)
+
+
 ## 2023-04-05
 
 Added:

@@ -1,3 +1,4 @@
+[harness/drone](https://github.com/harness/drone)
 [jimporter/mike](https://github.com/jimporter/mike)
 [typst/typst](https://github.com/typst/typst)
 [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)
