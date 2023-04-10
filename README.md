@@ -1,3 +1,9 @@
+## 2023-04-10
+
+Added:
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff)
+
+
 ## 2023-04-08
 
 Added:
