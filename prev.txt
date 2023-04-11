@@ -1,3 +1,4 @@
+[nhooyr/websocket](https://github.com/nhooyr/websocket)
 [charliermarsh/ruff](https://github.com/charliermarsh/ruff)
 [harness/drone](https://github.com/harness/drone)
 [jimporter/mike](https://github.com/jimporter/mike)

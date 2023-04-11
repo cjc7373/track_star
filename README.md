@@ -1,3 +1,9 @@
+## 2023-04-11
+
+Added:
+- [nhooyr/websocket](https://github.com/nhooyr/websocket)
+
+
 ## 2023-04-10
 
 Added:
