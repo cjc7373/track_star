@@ -1,3 +1,4 @@
+[hwchase17/langchain](https://github.com/hwchase17/langchain)
 [nhooyr/websocket](https://github.com/nhooyr/websocket)
 [charliermarsh/ruff](https://github.com/charliermarsh/ruff)
 [harness/drone](https://github.com/harness/drone)

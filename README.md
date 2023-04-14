@@ -1,3 +1,9 @@
+## 2023-04-14
+
+Added:
+- [hwchase17/langchain](https://github.com/hwchase17/langchain)
+
+
 ## 2023-04-11
 
 Added:
