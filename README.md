@@ -1,3 +1,10 @@
+## 2023-04-17
+
+Added:
+- [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping)
+- [redis/redis](https://github.com/redis/redis)
+
+
 ## 2023-04-14
 
 Added:
