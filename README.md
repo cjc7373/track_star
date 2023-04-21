@@ -1,3 +1,14 @@
+## 2023-04-21
+
+Added:
+- [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray)
+- [reevald/ai-workout-assistant](https://github.com/reevald/ai-workout-assistant)
+
+
+Deleted:
+- [xiaoyifang/goldendict](https://github.com/xiaoyifang/goldendict)
+
+
 ## 2023-04-17
 
 Added:

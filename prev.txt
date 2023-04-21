@@ -1,3 +1,5 @@
+[Martchus/syncthingtray](https://github.com/Martchus/syncthingtray)
+[reevald/ai-workout-assistant](https://github.com/reevald/ai-workout-assistant)
 [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping)
 [redis/redis](https://github.com/redis/redis)
 [hwchase17/langchain](https://github.com/hwchase17/langchain)
@@ -16,7 +18,6 @@
 [zu1k/nali](https://github.com/zu1k/nali)
 [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker)
 [waydroid/waydroid](https://github.com/waydroid/waydroid)
-[xiaoyifang/goldendict](https://github.com/xiaoyifang/goldendict)
 [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets)
 [kl/sub-batch](https://github.com/kl/sub-batch)
 [orblazer/plasma-applet-resources-monitor](https://github.com/orblazer/plasma-applet-resources-monitor)
