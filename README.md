@@ -1,3 +1,11 @@
+## 2023-04-22
+
+Added:
+- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
+- [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube)
+- [SkyTubeTeam/SkyTube](https://github.com/SkyTubeTeam/SkyTube)
+
+
 ## 2023-04-21
 
 Added:
