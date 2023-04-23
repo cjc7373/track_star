@@ -1,3 +1,9 @@
+## 2023-04-23
+
+Added:
+- [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving)
+
+
 ## 2023-04-22
 
 Added:
