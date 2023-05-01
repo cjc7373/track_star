@@ -1,3 +1,9 @@
+## 2023-05-01
+
+Added:
+- [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc)
+
+
 ## 2023-04-26
 
 Added:

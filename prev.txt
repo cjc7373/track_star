@@ -1,3 +1,4 @@
+[grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc)
 [agalwood/Motrix](https://github.com/agalwood/Motrix)
 [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving)
 [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
