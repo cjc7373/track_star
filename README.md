@@ -1,3 +1,9 @@
+## 2023-05-02
+
+Added:
+- [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim)
+
+
 ## 2023-05-01
 
 Added:
