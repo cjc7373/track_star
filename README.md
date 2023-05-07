@@ -1,3 +1,9 @@
+## 2023-05-07
+
+Added:
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
+
+
 ## 2023-05-02
 
 Added:
