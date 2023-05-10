@@ -1,3 +1,9 @@
+## 2023-05-10
+
+Added:
+- [wabarc/wayback](https://github.com/wabarc/wayback)
+
+
 ## 2023-05-07
 
 Added:
