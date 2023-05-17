@@ -1,3 +1,9 @@
+## 2023-05-17
+
+Added:
+- [HolographicWings/TOTK-Mods-collection](https://github.com/HolographicWings/TOTK-Mods-collection)
+
+
 ## 2023-05-10
 
 Added:
