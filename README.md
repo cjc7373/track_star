@@ -1,3 +1,9 @@
+## 2023-05-23
+
+Added:
+- [airwallex/k8s-pod-restart-info-collector](https://github.com/airwallex/k8s-pod-restart-info-collector)
+
+
 ## 2023-05-17
 
 Added:
