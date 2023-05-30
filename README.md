@@ -1,3 +1,9 @@
+## 2023-05-30
+
+Added:
+- [kkawakam/rustyline](https://github.com/kkawakam/rustyline)
+
+
 ## 2023-05-23
 
 Added:
