@@ -1,3 +1,9 @@
+## 2023-06-01
+
+Added:
+- [robscott/kube-capacity](https://github.com/robscott/kube-capacity)
+
+
 ## 2023-05-30
 
 Added:
