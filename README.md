@@ -1,3 +1,9 @@
+## 2023-06-03
+
+Added:
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+
+
 ## 2023-06-01
 
 Added:
