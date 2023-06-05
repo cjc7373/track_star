@@ -1,3 +1,4 @@
+[pingcap/talent-plan](https://github.com/pingcap/talent-plan)
 [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 [robscott/kube-capacity](https://github.com/robscott/kube-capacity)
 [kkawakam/rustyline](https://github.com/kkawakam/rustyline)

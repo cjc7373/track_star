@@ -1,3 +1,9 @@
+## 2023-06-05
+
+Added:
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan)
+
+
 ## 2023-06-03
 
 Added:
