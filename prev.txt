@@ -19,7 +19,7 @@
 [redis/redis](https://github.com/redis/redis)
 [hwchase17/langchain](https://github.com/hwchase17/langchain)
 [nhooyr/websocket](https://github.com/nhooyr/websocket)
-[charliermarsh/ruff](https://github.com/charliermarsh/ruff)
+[astral-sh/ruff](https://github.com/astral-sh/ruff)
 [harness/drone](https://github.com/harness/drone)
 [jimporter/mike](https://github.com/jimporter/mike)
 [typst/typst](https://github.com/typst/typst)

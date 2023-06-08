@@ -1,3 +1,13 @@
+## 2023-06-08
+
+Added:
+- [astral-sh/ruff](https://github.com/astral-sh/ruff)
+
+
+Deleted:
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff)
+
+
 ## 2023-06-05
 
 Added:
