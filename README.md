@@ -1,3 +1,9 @@
+## 2023-06-26
+
+Added:
+- [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell)
+
+
 ## 2023-06-08
 
 Added:
