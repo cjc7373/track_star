@@ -1,3 +1,9 @@
+## 2023-07-12
+
+Added:
+- [iximiuz/cdebug](https://github.com/iximiuz/cdebug)
+
+
 ## 2023-06-26
 
 Added:
