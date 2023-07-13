@@ -1,3 +1,9 @@
+## 2023-07-13
+
+Added:
+- [wagoodman/dive](https://github.com/wagoodman/dive)
+
+
 ## 2023-07-12
 
 Added:

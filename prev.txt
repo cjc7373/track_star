@@ -1,3 +1,4 @@
+[wagoodman/dive](https://github.com/wagoodman/dive)
 [iximiuz/cdebug](https://github.com/iximiuz/cdebug)
 [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell)
 [pingcap/talent-plan](https://github.com/pingcap/talent-plan)
