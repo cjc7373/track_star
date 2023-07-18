@@ -1,3 +1,9 @@
+## 2023-07-18
+
+Added:
+- [meetrevision/playbook](https://github.com/meetrevision/playbook)
+
+
 ## 2023-07-13
 
 Added:
