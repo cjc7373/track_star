@@ -1,3 +1,16 @@
+## 2023-07-24
+
+Added:
+- [bloomberg/pystack](https://github.com/bloomberg/pystack)
+- [apache/superset](https://github.com/apache/superset)
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+
+
+Deleted:
+- [hwchase17/langchain](https://github.com/hwchase17/langchain)
+- [vuejs/language-tools](https://github.com/vuejs/language-tools)
+
+
 ## 2023-07-18
 
 Added:
