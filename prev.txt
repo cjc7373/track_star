@@ -1,3 +1,4 @@
+[po5/thumbfast](https://github.com/po5/thumbfast)
 [bloomberg/pystack](https://github.com/bloomberg/pystack)
 [apache/superset](https://github.com/apache/superset)
 [meetrevision/playbook](https://github.com/meetrevision/playbook)

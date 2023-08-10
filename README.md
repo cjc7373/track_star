@@ -1,3 +1,9 @@
+## 2023-08-10
+
+Added:
+- [po5/thumbfast](https://github.com/po5/thumbfast)
+
+
 ## 2023-07-24
 
 Added:
