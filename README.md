@@ -1,3 +1,9 @@
+## 2023-08-13
+
+Added:
+- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+
+
 ## 2023-08-10
 
 Added:

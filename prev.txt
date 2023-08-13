@@ -1,3 +1,4 @@
+[CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 [po5/thumbfast](https://github.com/po5/thumbfast)
 [bloomberg/pystack](https://github.com/bloomberg/pystack)
 [apache/superset](https://github.com/apache/superset)
