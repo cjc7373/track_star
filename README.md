@@ -1,3 +1,9 @@
+## 2023-08-31
+
+Added:
+- [ncase/fireflies](https://github.com/ncase/fireflies)
+
+
 ## 2023-08-29
 
 Added:
