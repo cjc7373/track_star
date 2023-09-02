@@ -1,3 +1,9 @@
+## 2023-09-02
+
+Added:
+- [hacs-china/integration](https://github.com/hacs-china/integration)
+
+
 ## 2023-08-31
 
 Added:
