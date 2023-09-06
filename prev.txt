@@ -1,3 +1,4 @@
+[xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray)
 [hacs-china/integration](https://github.com/hacs-china/integration)
 [ncase/fireflies](https://github.com/ncase/fireflies)
 [tilt-dev/tilt](https://github.com/tilt-dev/tilt)

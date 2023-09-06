@@ -1,3 +1,9 @@
+## 2023-09-06
+
+Added:
+- [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray)
+
+
 ## 2023-09-02
 
 Added:
