@@ -1,3 +1,13 @@
+## 2023-09-18
+
+Added:
+- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet)
+
+
+Deleted:
+- [dosyago/DiskerNet](https://github.com/dosyago/DiskerNet)
+
+
 ## 2023-09-06
 
 Added:
