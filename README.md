@@ -1,3 +1,13 @@
+## 2023-09-22
+
+Added:
+- [harness/gitness](https://github.com/harness/gitness)
+
+
+Deleted:
+- [harness/drone](https://github.com/harness/drone)
+
+
 ## 2023-09-18
 
 Added:

@@ -32,7 +32,7 @@
 [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 [nhooyr/websocket](https://github.com/nhooyr/websocket)
 [astral-sh/ruff](https://github.com/astral-sh/ruff)
-[harness/drone](https://github.com/harness/drone)
+[harness/gitness](https://github.com/harness/gitness)
 [jimporter/mike](https://github.com/jimporter/mike)
 [typst/typst](https://github.com/typst/typst)
 [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)
