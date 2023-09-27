@@ -1,3 +1,4 @@
+[jgm/djot](https://github.com/jgm/djot)
 [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray)
 [hacs-china/integration](https://github.com/hacs-china/integration)
 [ncase/fireflies](https://github.com/ncase/fireflies)
@@ -138,7 +139,7 @@
 [getzola/zola](https://github.com/getzola/zola)
 [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
 [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed)
-[Nefelim4ag/systemd-swap](https://github.com/Nefelim4ag/systemd-swap)
+[nefelim4ag/systemd-swap](https://github.com/nefelim4ag/systemd-swap)
 [zzh1996/USTC-Network-Resources](https://github.com/zzh1996/USTC-Network-Resources)
 [vinta/awesome-python](https://github.com/vinta/awesome-python)
 [grafana/pyroscope](https://github.com/grafana/pyroscope)

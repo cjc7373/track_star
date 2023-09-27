@@ -1,3 +1,14 @@
+## 2023-09-27
+
+Added:
+- [jgm/djot](https://github.com/jgm/djot)
+- [nefelim4ag/systemd-swap](https://github.com/nefelim4ag/systemd-swap)
+
+
+Deleted:
+- [Nefelim4ag/systemd-swap](https://github.com/Nefelim4ag/systemd-swap)
+
+
 ## 2023-09-22
 
 Added:
