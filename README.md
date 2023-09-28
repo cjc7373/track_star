@@ -1,3 +1,9 @@
+## 2023-09-28
+
+Added:
+- [dmtrKovalenko/blendr](https://github.com/dmtrKovalenko/blendr)
+
+
 ## 2023-09-27
 
 Added:
