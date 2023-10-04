@@ -1,3 +1,10 @@
+## 2023-10-04
+
+Added:
+- [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs)
+- [nicolaka/netshoot](https://github.com/nicolaka/netshoot)
+
+
 ## 2023-09-28
 
 Added:

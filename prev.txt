@@ -1,3 +1,5 @@
+[bheisler/criterion.rs](https://github.com/bheisler/criterion.rs)
+[nicolaka/netshoot](https://github.com/nicolaka/netshoot)
 [dmtrKovalenko/blendr](https://github.com/dmtrKovalenko/blendr)
 [jgm/djot](https://github.com/jgm/djot)
 [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray)
