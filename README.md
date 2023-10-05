@@ -1,3 +1,9 @@
+## 2023-10-05
+
+Added:
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+
+
 ## 2023-10-04
 
 Added:
