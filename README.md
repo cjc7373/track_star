@@ -1,3 +1,9 @@
+## 2023-10-10
+
+Added:
+- [svenstaro/genact](https://github.com/svenstaro/genact)
+
+
 ## 2023-10-05
 
 Added:
