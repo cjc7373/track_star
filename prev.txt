@@ -63,7 +63,7 @@
 [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies)
 [metabase/metabase](https://github.com/metabase/metabase)
 [logseq/logseq](https://github.com/logseq/logseq)
-[meienberger/runtipi](https://github.com/meienberger/runtipi)
+[runtipi/runtipi](https://github.com/runtipi/runtipi)
 [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
 [krisnova/naml](https://github.com/krisnova/naml)
 [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
