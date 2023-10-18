@@ -1,3 +1,9 @@
+## 2023-10-18
+
+Added:
+- [IgnisDa/ryot](https://github.com/IgnisDa/ryot)
+
+
 ## 2023-10-13
 
 Added:
