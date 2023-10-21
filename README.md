@@ -1,3 +1,9 @@
+## 2023-10-21
+
+Added:
+- [KDAB/hotspot](https://github.com/KDAB/hotspot)
+
+
 ## 2023-10-18
 
 Added:
