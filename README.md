@@ -1,3 +1,9 @@
+## 2023-10-22
+
+Added:
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+
+
 ## 2023-10-21
 
 Added:

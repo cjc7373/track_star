@@ -1,3 +1,4 @@
+[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
 [KDAB/hotspot](https://github.com/KDAB/hotspot)
 [IgnisDa/ryot](https://github.com/IgnisDa/ryot)
 [svenstaro/genact](https://github.com/svenstaro/genact)
