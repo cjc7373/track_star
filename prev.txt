@@ -1,3 +1,6 @@
+[orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync)
+[lapce/lapce](https://github.com/lapce/lapce)
+[woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self)
 [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
 [KDAB/hotspot](https://github.com/KDAB/hotspot)
 [IgnisDa/ryot](https://github.com/IgnisDa/ryot)

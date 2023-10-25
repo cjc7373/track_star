@@ -1,3 +1,11 @@
+## 2023-10-25
+
+Added:
+- [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync)
+- [lapce/lapce](https://github.com/lapce/lapce)
+- [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self)
+
+
 ## 2023-10-22
 
 Added:
