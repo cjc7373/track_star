@@ -1,3 +1,9 @@
+## 2023-10-30
+
+Added:
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos)
+
+
 ## 2023-10-25
 
 Added:
