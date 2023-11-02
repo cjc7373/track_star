@@ -1,3 +1,9 @@
+## 2023-11-02
+
+Added:
+- [ustctug/ustc-thesis-typst](https://github.com/ustctug/ustc-thesis-typst)
+
+
 ## 2023-10-30
 
 Added:

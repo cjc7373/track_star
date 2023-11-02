@@ -1,3 +1,4 @@
+[ustctug/ustc-thesis-typst](https://github.com/ustctug/ustc-thesis-typst)
 [leptos-rs/leptos](https://github.com/leptos-rs/leptos)
 [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync)
 [lapce/lapce](https://github.com/lapce/lapce)
