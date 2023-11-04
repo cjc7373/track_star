@@ -1,3 +1,10 @@
+## 2023-11-04
+
+Added:
+- [2e3s/awatcher](https://github.com/2e3s/awatcher)
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 2023-11-02
 
 Added:
