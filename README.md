@@ -1,3 +1,13 @@
+## 2023-11-17
+
+Added:
+- [hoverbike1/TOTK-Mods-collection](https://github.com/hoverbike1/TOTK-Mods-collection)
+
+
+Deleted:
+- [HolographicWings/TOTK-Mods-collection](https://github.com/HolographicWings/TOTK-Mods-collection)
+
+
 ## 2023-11-04
 
 Added:

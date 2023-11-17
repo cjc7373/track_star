@@ -31,7 +31,7 @@
 [robscott/kube-capacity](https://github.com/robscott/kube-capacity)
 [kkawakam/rustyline](https://github.com/kkawakam/rustyline)
 [airwallex/k8s-pod-restart-info-collector](https://github.com/airwallex/k8s-pod-restart-info-collector)
-[HolographicWings/TOTK-Mods-collection](https://github.com/HolographicWings/TOTK-Mods-collection)
+[hoverbike1/TOTK-Mods-collection](https://github.com/hoverbike1/TOTK-Mods-collection)
 [wabarc/wayback](https://github.com/wabarc/wayback)
 [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
 [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim)
