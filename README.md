@@ -1,3 +1,9 @@
+## 2023-11-21
+
+Added:
+- [wuxx/nanoESP32-C6](https://github.com/wuxx/nanoESP32-C6)
+
+
 ## 2023-11-17
 
 Added:
