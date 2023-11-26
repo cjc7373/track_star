@@ -1,3 +1,9 @@
+## 2023-11-26
+
+Added:
+- [datenlord/datenlord](https://github.com/datenlord/datenlord)
+
+
 ## 2023-11-21
 
 Added:
