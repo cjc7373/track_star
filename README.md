@@ -1,3 +1,10 @@
+## 2023-11-30
+
+Added:
+- [orbstack/orbstack](https://github.com/orbstack/orbstack)
+- [apache/incubator-opendal](https://github.com/apache/incubator-opendal)
+
+
 ## 2023-11-26
 
 Added:
