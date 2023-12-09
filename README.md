@@ -1,3 +1,9 @@
+## 2023-12-09
+
+Added:
+- [Xfennec/progress](https://github.com/Xfennec/progress)
+
+
 ## 2023-11-30
 
 Added:

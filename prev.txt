@@ -1,3 +1,4 @@
+[Xfennec/progress](https://github.com/Xfennec/progress)
 [orbstack/orbstack](https://github.com/orbstack/orbstack)
 [apache/incubator-opendal](https://github.com/apache/incubator-opendal)
 [datenlord/datenlord](https://github.com/datenlord/datenlord)
