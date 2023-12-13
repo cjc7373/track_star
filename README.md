@@ -1,3 +1,14 @@
+## 2023-12-13
+
+Added:
+- [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons)
+- [element-hq/element-web](https://github.com/element-hq/element-web)
+
+
+Deleted:
+- [vector-im/element-web](https://github.com/vector-im/element-web)
+
+
 ## 2023-12-09
 
 Added:

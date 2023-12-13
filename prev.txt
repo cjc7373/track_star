@@ -1,3 +1,4 @@
+[unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons)
 [Xfennec/progress](https://github.com/Xfennec/progress)
 [orbstack/orbstack](https://github.com/orbstack/orbstack)
 [apache/incubator-opendal](https://github.com/apache/incubator-opendal)
@@ -163,7 +164,7 @@
 [zzh1996/USTC-Network-Resources](https://github.com/zzh1996/USTC-Network-Resources)
 [vinta/awesome-python](https://github.com/vinta/awesome-python)
 [grafana/pyroscope](https://github.com/grafana/pyroscope)
-[vector-im/element-web](https://github.com/vector-im/element-web)
+[element-hq/element-web](https://github.com/element-hq/element-web)
 [zsxsoft/my-beancount-scripts](https://github.com/zsxsoft/my-beancount-scripts)
 [deb-sig/double-entry-generator](https://github.com/deb-sig/double-entry-generator)
 [hijiangtao/resume](https://github.com/hijiangtao/resume)
