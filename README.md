@@ -1,3 +1,9 @@
+## 2023-12-18
+
+Added:
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
+
 ## 2023-12-13
 
 Added:
