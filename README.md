@@ -1,3 +1,23 @@
+## 2023-12-24
+
+Added:
+- [NihilityT/MiPushFramework](https://github.com/NihilityT/MiPushFramework)
+
+
+Deleted:
+- [OxCGRT/covid-policy-tracker](https://github.com/OxCGRT/covid-policy-tracker)
+- [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework)
+- [chinesehuazhou/peps-cn](https://github.com/chinesehuazhou/peps-cn)
+- [nefelim4ag/systemd-swap](https://github.com/nefelim4ag/systemd-swap)
+- [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager)
+- [nondanee/Glee](https://github.com/nondanee/Glee)
+- [dot-osk/monitor_ctrl](https://github.com/dot-osk/monitor_ctrl)
+- [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn)
+- [Thobian/typora-plugins-win-img](https://github.com/Thobian/typora-plugins-win-img)
+- [gedoor/MyBookshelf](https://github.com/gedoor/MyBookshelf)
+- [JackeyLea/NJUCS](https://github.com/JackeyLea/NJUCS)
+
+
 ## 2023-12-21
 
 Added:
