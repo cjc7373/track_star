@@ -1,3 +1,10 @@
+## 2024-01-06
+
+Added:
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+
+
 ## 2023-12-24
 
 Added:

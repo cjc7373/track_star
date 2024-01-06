@@ -1,3 +1,5 @@
+[mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
+[KRTirtho/spotube](https://github.com/KRTirtho/spotube)
 [NihilityT/MiPushFramework](https://github.com/NihilityT/MiPushFramework)
 [submariner-io/submariner](https://github.com/submariner-io/submariner)
 [nocalhost/nocalhost](https://github.com/nocalhost/nocalhost)
