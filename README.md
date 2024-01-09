@@ -1,3 +1,9 @@
+## 2024-01-09
+
+Added:
+- [im2nguyen/rover](https://github.com/im2nguyen/rover)
+
+
 ## 2024-01-06
 
 Added:
