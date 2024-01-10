@@ -1,3 +1,10 @@
+## 2024-01-10
+
+Added:
+- [kubefin/kubefin](https://github.com/kubefin/kubefin)
+- [neondatabase/neon](https://github.com/neondatabase/neon)
+
+
 ## 2024-01-09
 
 Added:
