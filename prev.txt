@@ -1,3 +1,4 @@
+[derailed/k9s](https://github.com/derailed/k9s)
 [kubefin/kubefin](https://github.com/kubefin/kubefin)
 [neondatabase/neon](https://github.com/neondatabase/neon)
 [im2nguyen/rover](https://github.com/im2nguyen/rover)

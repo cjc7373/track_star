@@ -1,3 +1,9 @@
+## 2024-01-11
+
+Added:
+- [derailed/k9s](https://github.com/derailed/k9s)
+
+
 ## 2024-01-10
 
 Added:
