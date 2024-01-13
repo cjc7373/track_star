@@ -1,3 +1,9 @@
+## 2024-01-13
+
+Added:
+- [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky)
+
+
 ## 2024-01-11
 
 Added:
