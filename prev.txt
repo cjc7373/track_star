@@ -1,3 +1,4 @@
+[atuinsh/atuin](https://github.com/atuinsh/atuin)
 [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky)
 [derailed/k9s](https://github.com/derailed/k9s)
 [kubefin/kubefin](https://github.com/kubefin/kubefin)

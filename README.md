@@ -1,3 +1,9 @@
+## 2024-01-15
+
+Added:
+- [atuinsh/atuin](https://github.com/atuinsh/atuin)
+
+
 ## 2024-01-13
 
 Added:
