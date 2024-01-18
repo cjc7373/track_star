@@ -1,3 +1,9 @@
+## 2024-01-18
+
+Added:
+- [Stellarium/stellarium](https://github.com/Stellarium/stellarium)
+
+
 ## 2024-01-15
 
 Added:
