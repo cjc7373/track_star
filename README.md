@@ -1,3 +1,13 @@
+## 2024-01-19
+
+Added:
+- [apache/opendal](https://github.com/apache/opendal)
+
+
+Deleted:
+- [apache/incubator-opendal](https://github.com/apache/incubator-opendal)
+
+
 ## 2024-01-18
 
 Added:

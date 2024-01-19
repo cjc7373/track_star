@@ -14,7 +14,7 @@
 [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons)
 [Xfennec/progress](https://github.com/Xfennec/progress)
 [orbstack/orbstack](https://github.com/orbstack/orbstack)
-[apache/incubator-opendal](https://github.com/apache/incubator-opendal)
+[apache/opendal](https://github.com/apache/opendal)
 [datenlord/datenlord](https://github.com/datenlord/datenlord)
 [wuxx/nanoESP32-C6](https://github.com/wuxx/nanoESP32-C6)
 [2e3s/awatcher](https://github.com/2e3s/awatcher)
