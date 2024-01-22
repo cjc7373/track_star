@@ -1,3 +1,9 @@
+## 2024-01-22
+
+Added:
+- [cilium/pwru](https://github.com/cilium/pwru)
+
+
 ## 2024-01-19
 
 Added:

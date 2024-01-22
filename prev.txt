@@ -1,3 +1,4 @@
+[cilium/pwru](https://github.com/cilium/pwru)
 [Stellarium/stellarium](https://github.com/Stellarium/stellarium)
 [atuinsh/atuin](https://github.com/atuinsh/atuin)
 [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky)
