@@ -1,3 +1,4 @@
+[stefanprodan/podinfo](https://github.com/stefanprodan/podinfo)
 [cilium/pwru](https://github.com/cilium/pwru)
 [Stellarium/stellarium](https://github.com/Stellarium/stellarium)
 [atuinsh/atuin](https://github.com/atuinsh/atuin)

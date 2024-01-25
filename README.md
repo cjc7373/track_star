@@ -1,3 +1,9 @@
+## 2024-01-25
+
+Added:
+- [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo)
+
+
 ## 2024-01-22
 
 Added:
