@@ -1,3 +1,9 @@
+## 2024-01-29
+
+Added:
+- [meshery/meshery](https://github.com/meshery/meshery)
+
+
 ## 2024-01-25
 
 Added:
