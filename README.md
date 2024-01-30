@@ -1,3 +1,9 @@
+## 2024-01-30
+
+Deleted:
+- [kubefin/kubefin](https://github.com/kubefin/kubefin)
+
+
 ## 2024-01-29
 
 Added:
