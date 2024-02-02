@@ -78,7 +78,7 @@
 [wekan/wekan](https://github.com/wekan/wekan)
 [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
 [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview)
-[iovisor/bpftrace](https://github.com/iovisor/bpftrace)
+[bpftrace/bpftrace](https://github.com/bpftrace/bpftrace)
 [zu1k/nali](https://github.com/zu1k/nali)
 [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker)
 [waydroid/waydroid](https://github.com/waydroid/waydroid)

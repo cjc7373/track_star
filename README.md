@@ -1,3 +1,13 @@
+## 2024-02-02
+
+Added:
+- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace)
+
+
+Deleted:
+- [iovisor/bpftrace](https://github.com/iovisor/bpftrace)
+
+
 ## 2024-01-30
 
 Deleted:
