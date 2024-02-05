@@ -1,3 +1,9 @@
+## 2024-02-05
+
+Added:
+- [terasum/medict](https://github.com/terasum/medict)
+
+
 ## 2024-02-02
 
 Added:

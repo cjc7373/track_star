@@ -1,3 +1,4 @@
+[terasum/medict](https://github.com/terasum/medict)
 [meshery/meshery](https://github.com/meshery/meshery)
 [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo)
 [cilium/pwru](https://github.com/cilium/pwru)
