@@ -1,3 +1,9 @@
+## 2024-02-09
+
+Added:
+- [scottbez1/smartknob](https://github.com/scottbez1/smartknob)
+
+
 ## 2024-02-05
 
 Added:
