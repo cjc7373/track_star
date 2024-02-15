@@ -1,3 +1,5 @@
+[shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)
+[AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
 [scottbez1/smartknob](https://github.com/scottbez1/smartknob)
 [terasum/medict](https://github.com/terasum/medict)
 [meshery/meshery](https://github.com/meshery/meshery)

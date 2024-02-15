@@ -1,3 +1,10 @@
+## 2024-02-15
+
+Added:
+- [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)
+- [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
+
+
 ## 2024-02-09
 
 Added:
