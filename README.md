@@ -1,3 +1,9 @@
+## 2024-02-21
+
+Added:
+- [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial)
+
+
 ## 2024-02-15
 
 Added:
