@@ -1,3 +1,9 @@
+## 2024-02-22
+
+Added:
+- [friendlyarm/Actions-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt)
+
+
 ## 2024-02-21
 
 Added:

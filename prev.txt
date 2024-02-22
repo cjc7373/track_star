@@ -1,3 +1,4 @@
+[friendlyarm/Actions-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt)
 [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial)
 [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)
 [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
