@@ -1,3 +1,9 @@
+## 2024-03-01
+
+Added:
+- [Netflix/bpftop](https://github.com/Netflix/bpftop)
+
+
 ## 2024-02-29
 
 Added:
