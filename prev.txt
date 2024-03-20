@@ -249,7 +249,6 @@
 [lilydjwg/fcitx.vim](https://github.com/lilydjwg/fcitx.vim)
 [botuniverse/onebot](https://github.com/botuniverse/onebot)
 [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
-[DmytroLitvinov/awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
 [KikoPlayProject/KikoPlay](https://github.com/KikoPlayProject/KikoPlay)
 [lanbing510/DouBanSpider](https://github.com/lanbing510/DouBanSpider)
 [romgar/django-dirtyfields](https://github.com/romgar/django-dirtyfields)

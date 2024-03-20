@@ -1,3 +1,9 @@
+## 2024-03-20
+
+Deleted:
+- [DmytroLitvinov/awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
+
+
 ## 2024-03-01
 
 Added:
