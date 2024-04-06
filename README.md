@@ -1,3 +1,9 @@
+## 2024-04-06
+
+Added:
+- [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
+
+
 ## 2024-03-20
 
 Deleted:
