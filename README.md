@@ -1,3 +1,9 @@
+## 2024-04-12
+
+Added:
+- [FranzKafkaYu/AvesLive](https://github.com/FranzKafkaYu/AvesLive)
+
+
 ## 2024-04-06
 
 Added:
