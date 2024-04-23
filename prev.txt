@@ -1,3 +1,4 @@
+[elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent)
 [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
 [FranzKafkaYu/AvesLive](https://github.com/FranzKafkaYu/AvesLive)
 [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
