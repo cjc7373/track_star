@@ -1,3 +1,9 @@
+## 2024-04-24
+
+Added:
+- [bats-core/bats-core](https://github.com/bats-core/bats-core)
+
+
 ## 2024-04-23
 
 Added:
