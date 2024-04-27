@@ -1,3 +1,9 @@
+## 2024-04-27
+
+Added:
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+
+
 ## 2024-04-24
 
 Added:
