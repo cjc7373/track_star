@@ -1,3 +1,10 @@
+## 2024-05-08
+
+Added:
+- [dominikbraun/graph](https://github.com/dominikbraun/graph)
+- [qmuntal/stateless](https://github.com/qmuntal/stateless)
+
+
 ## 2024-04-27
 
 Added:
