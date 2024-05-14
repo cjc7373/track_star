@@ -1,3 +1,4 @@
+[akopytov/sysbench](https://github.com/akopytov/sysbench)
 [dominikbraun/graph](https://github.com/dominikbraun/graph)
 [qmuntal/stateless](https://github.com/qmuntal/stateless)
 [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)

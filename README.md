@@ -1,3 +1,9 @@
+## 2024-05-14
+
+Added:
+- [akopytov/sysbench](https://github.com/akopytov/sysbench)
+
+
 ## 2024-05-08
 
 Added:
