@@ -1,3 +1,9 @@
+## 2024-05-25
+
+Added:
+- [vnpy/vnpy](https://github.com/vnpy/vnpy)
+
+
 ## 2024-05-22
 
 Added:
