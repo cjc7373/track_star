@@ -1,3 +1,9 @@
+## 2024-06-05
+
+Added:
+- [bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean)
+
+
 ## 2024-05-26
 
 Added:
