@@ -1,3 +1,9 @@
+## 2024-06-11
+
+Added:
+- [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)
+
+
 ## 2024-06-05
 
 Added:
