@@ -1,3 +1,9 @@
+## 2024-06-14
+
+Added:
+- [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker)
+
+
 ## 2024-06-11
 
 Added:

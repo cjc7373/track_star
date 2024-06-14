@@ -1,3 +1,4 @@
+[jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker)
 [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)
 [bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean)
 [OpenRailwayMap/OpenRailwayMap](https://github.com/OpenRailwayMap/OpenRailwayMap)
