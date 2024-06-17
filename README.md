@@ -1,3 +1,9 @@
+## 2024-06-17
+
+Added:
+- [kubewharf/godel-scheduler](https://github.com/kubewharf/godel-scheduler)
+
+
 ## 2024-06-14
 
 Added:
