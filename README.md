@@ -1,3 +1,9 @@
+## 2024-06-23
+
+Added:
+- [thesephist/monocle](https://github.com/thesephist/monocle)
+
+
 ## 2024-06-17
 
 Added:

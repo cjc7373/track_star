@@ -1,3 +1,4 @@
+[thesephist/monocle](https://github.com/thesephist/monocle)
 [kubewharf/godel-scheduler](https://github.com/kubewharf/godel-scheduler)
 [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker)
 [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)
