@@ -1,3 +1,9 @@
+## 2024-06-28
+
+Added:
+- [madsim-rs/madsim](https://github.com/madsim-rs/madsim)
+
+
 ## 2024-06-23
 
 Added:
