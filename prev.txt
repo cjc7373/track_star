@@ -1,3 +1,4 @@
+[felixonmars/fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki)
 [madsim-rs/madsim](https://github.com/madsim-rs/madsim)
 [thesephist/monocle](https://github.com/thesephist/monocle)
 [kubewharf/godel-scheduler](https://github.com/kubewharf/godel-scheduler)

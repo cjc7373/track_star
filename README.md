@@ -1,3 +1,9 @@
+## 2024-07-05
+
+Added:
+- [felixonmars/fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki)
+
+
 ## 2024-06-28
 
 Added:
