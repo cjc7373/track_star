@@ -1,3 +1,13 @@
+## 2024-08-08
+
+Added:
+- [open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler)
+
+
+Deleted:
+- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent)
+
+
 ## 2024-07-24
 
 Added:
