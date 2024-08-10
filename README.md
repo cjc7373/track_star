@@ -1,3 +1,14 @@
+## 2024-08-10
+
+Added:
+- [a-b-street/abstreet](https://github.com/a-b-street/abstreet)
+- [coder/websocket](https://github.com/coder/websocket)
+
+
+Deleted:
+- [nhooyr/websocket](https://github.com/nhooyr/websocket)
+
+
 ## 2024-08-08
 
 Added:

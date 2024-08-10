@@ -1,3 +1,4 @@
+[a-b-street/abstreet](https://github.com/a-b-street/abstreet)
 [stefanprodan/timoni](https://github.com/stefanprodan/timoni)
 [felixonmars/fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki)
 [madsim-rs/madsim](https://github.com/madsim-rs/madsim)
@@ -95,7 +96,7 @@
 [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping)
 [redis/redis](https://github.com/redis/redis)
 [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-[nhooyr/websocket](https://github.com/nhooyr/websocket)
+[coder/websocket](https://github.com/coder/websocket)
 [astral-sh/ruff](https://github.com/astral-sh/ruff)
 [harness/gitness](https://github.com/harness/gitness)
 [jimporter/mike](https://github.com/jimporter/mike)
