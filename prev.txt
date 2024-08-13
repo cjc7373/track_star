@@ -1,3 +1,4 @@
+[YaLTeR/niri](https://github.com/YaLTeR/niri)
 [a-b-street/abstreet](https://github.com/a-b-street/abstreet)
 [stefanprodan/timoni](https://github.com/stefanprodan/timoni)
 [felixonmars/fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki)

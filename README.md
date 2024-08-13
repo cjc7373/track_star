@@ -1,3 +1,9 @@
+## 2024-08-13
+
+Added:
+- [YaLTeR/niri](https://github.com/YaLTeR/niri)
+
+
 ## 2024-08-10
 
 Added:
