@@ -1,3 +1,9 @@
+## 2024-08-19
+
+Added:
+- [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles)
+
+
 ## 2024-08-13
 
 Added:

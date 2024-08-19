@@ -1,3 +1,4 @@
+[FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles)
 [YaLTeR/niri](https://github.com/YaLTeR/niri)
 [a-b-street/abstreet](https://github.com/a-b-street/abstreet)
 [stefanprodan/timoni](https://github.com/stefanprodan/timoni)
