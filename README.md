@@ -1,3 +1,13 @@
+## 2024-08-23
+
+Added:
+- [dosyago/dn](https://github.com/dosyago/dn)
+
+
+Deleted:
+- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet)
+
+
 ## 2024-08-19
 
 Added:

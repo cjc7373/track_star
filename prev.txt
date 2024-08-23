@@ -216,7 +216,7 @@
 [sb2nov/resume](https://github.com/sb2nov/resume)
 [archlinux/archinstall](https://github.com/archlinux/archinstall)
 [thoughtbot/rcm](https://github.com/thoughtbot/rcm)
-[dosyago/DownloadNet](https://github.com/dosyago/DownloadNet)
+[dosyago/dn](https://github.com/dosyago/dn)
 [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
 [pigmonkey/spark](https://github.com/pigmonkey/spark)
 [borgbackup/borg](https://github.com/borgbackup/borg)
