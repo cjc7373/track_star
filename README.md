@@ -1,3 +1,9 @@
+## 2024-08-27
+
+Added:
+- [rvaiya/keyd](https://github.com/rvaiya/keyd)
+
+
 ## 2024-08-23
 
 Added:
