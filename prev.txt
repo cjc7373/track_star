@@ -1,3 +1,4 @@
+[kubernetes-sigs/kube-scheduler-simulator](https://github.com/kubernetes-sigs/kube-scheduler-simulator)
 [rvaiya/keyd](https://github.com/rvaiya/keyd)
 [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles)
 [YaLTeR/niri](https://github.com/YaLTeR/niri)

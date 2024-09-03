@@ -1,3 +1,9 @@
+## 2024-09-03
+
+Added:
+- [kubernetes-sigs/kube-scheduler-simulator](https://github.com/kubernetes-sigs/kube-scheduler-simulator)
+
+
 ## 2024-08-27
 
 Added:
