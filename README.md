@@ -1,3 +1,9 @@
+## 2024-09-08
+
+Added:
+- [jpochyla/psst](https://github.com/jpochyla/psst)
+
+
 ## 2024-09-03
 
 Added:
