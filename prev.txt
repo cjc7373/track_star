@@ -103,7 +103,7 @@
 [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 [coder/websocket](https://github.com/coder/websocket)
 [astral-sh/ruff](https://github.com/astral-sh/ruff)
-[harness/gitness](https://github.com/harness/gitness)
+[harness/harness](https://github.com/harness/harness)
 [jimporter/mike](https://github.com/jimporter/mike)
 [typst/typst](https://github.com/typst/typst)
 [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)

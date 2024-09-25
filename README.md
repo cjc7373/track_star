@@ -1,3 +1,13 @@
+## 2024-09-25
+
+Added:
+- [harness/harness](https://github.com/harness/harness)
+
+
+Deleted:
+- [harness/gitness](https://github.com/harness/gitness)
+
+
 ## 2024-09-08
 
 Added:
