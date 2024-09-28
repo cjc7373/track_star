@@ -1,3 +1,9 @@
+## 2024-09-28
+
+Added:
+- [szabodanika/microbin](https://github.com/szabodanika/microbin)
+
+
 ## 2024-09-25
 
 Added:
