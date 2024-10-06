@@ -1,3 +1,9 @@
+## 2024-10-06
+
+Added:
+- [zv/SICP-guile](https://github.com/zv/SICP-guile)
+
+
 ## 2024-09-28
 
 Added:
