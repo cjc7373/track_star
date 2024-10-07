@@ -1,3 +1,9 @@
+## 2024-10-07
+
+Added:
+- [nocobase/nocobase](https://github.com/nocobase/nocobase)
+
+
 ## 2024-10-06
 
 Added:
