@@ -1,3 +1,13 @@
+## 2024-10-24
+
+Added:
+- [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
+
+
+Deleted:
+- [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar)
+
+
 ## 2024-10-07
 
 Added:
