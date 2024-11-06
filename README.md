@@ -1,3 +1,9 @@
+## 2024-11-06
+
+Added:
+- [kopia/kopia](https://github.com/kopia/kopia)
+
+
 ## 2024-10-24
 
 Added:

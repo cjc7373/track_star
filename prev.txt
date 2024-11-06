@@ -1,3 +1,4 @@
+[kopia/kopia](https://github.com/kopia/kopia)
 [nocobase/nocobase](https://github.com/nocobase/nocobase)
 [zv/SICP-guile](https://github.com/zv/SICP-guile)
 [szabodanika/microbin](https://github.com/szabodanika/microbin)
