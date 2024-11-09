@@ -1,3 +1,9 @@
+## 2024-11-09
+
+Added:
+- [logto-io/auth-wiki](https://github.com/logto-io/auth-wiki)
+
+
 ## 2024-11-06
 
 Added:

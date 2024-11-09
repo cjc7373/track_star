@@ -1,3 +1,4 @@
+[logto-io/auth-wiki](https://github.com/logto-io/auth-wiki)
 [kopia/kopia](https://github.com/kopia/kopia)
 [nocobase/nocobase](https://github.com/nocobase/nocobase)
 [zv/SICP-guile](https://github.com/zv/SICP-guile)
