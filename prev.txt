@@ -1,3 +1,4 @@
+[sieve-project/sieve](https://github.com/sieve-project/sieve)
 [logto-io/auth-wiki](https://github.com/logto-io/auth-wiki)
 [kopia/kopia](https://github.com/kopia/kopia)
 [nocobase/nocobase](https://github.com/nocobase/nocobase)
