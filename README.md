@@ -1,3 +1,9 @@
+## 2024-11-22
+
+Added:
+- [wesql/wesql](https://github.com/wesql/wesql)
+
+
 ## 2024-11-12
 
 Added:

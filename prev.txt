@@ -1,3 +1,4 @@
+[wesql/wesql](https://github.com/wesql/wesql)
 [sieve-project/sieve](https://github.com/sieve-project/sieve)
 [logto-io/auth-wiki](https://github.com/logto-io/auth-wiki)
 [kopia/kopia](https://github.com/kopia/kopia)
