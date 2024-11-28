@@ -1,3 +1,13 @@
+## 2024-11-28
+
+Added:
+- [bpc-clone/bpc_chrome_support](https://github.com/bpc-clone/bpc_chrome_support)
+
+
+Deleted:
+- [bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean)
+
+
 ## 2024-11-22
 
 Added:
