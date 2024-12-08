@@ -1,3 +1,10 @@
+## 2024-12-08
+
+Added:
+- [immich-app/immich](https://github.com/immich-app/immich)
+- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum)
+
+
 ## 2024-11-28
 
 Added:
