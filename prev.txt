@@ -1,3 +1,5 @@
+[tursodatabase/limbo](https://github.com/tursodatabase/limbo)
+[visjs/vis-network](https://github.com/visjs/vis-network)
 [gzuidhof/tygo](https://github.com/gzuidhof/tygo)
 [immich-app/immich](https://github.com/immich-app/immich)
 [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum)

@@ -1,3 +1,10 @@
+## 2024-12-12
+
+Added:
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo)
+- [visjs/vis-network](https://github.com/visjs/vis-network)
+
+
 ## 2024-12-11
 
 Added:
