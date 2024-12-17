@@ -1,3 +1,4 @@
+[XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home)
 [tursodatabase/limbo](https://github.com/tursodatabase/limbo)
 [visjs/vis-network](https://github.com/visjs/vis-network)
 [gzuidhof/tygo](https://github.com/gzuidhof/tygo)

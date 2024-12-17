@@ -1,3 +1,9 @@
+## 2024-12-17
+
+Added:
+- [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home)
+
+
 ## 2024-12-12
 
 Added:
