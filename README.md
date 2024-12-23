@@ -1,3 +1,10 @@
+## 2024-12-23
+
+Added:
+- [ustclug/Linux201-docs](https://github.com/ustclug/Linux201-docs)
+- [siderolabs/talos](https://github.com/siderolabs/talos)
+
+
 ## 2024-12-17
 
 Added:
