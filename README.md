@@ -1,3 +1,11 @@
+## 2024-12-31
+
+Added:
+- [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn)
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence)
+- [segmentio/kafka-go](https://github.com/segmentio/kafka-go)
+
+
 ## 2024-12-23
 
 Added:
