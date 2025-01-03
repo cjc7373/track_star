@@ -1,3 +1,9 @@
+## 2025-01-03
+
+Added:
+- [SukkaW/Make-Bilibili-Great-Than-Ever-Before](https://github.com/SukkaW/Make-Bilibili-Great-Than-Ever-Before)
+
+
 ## 2024-12-31
 
 Added:
