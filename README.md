@@ -1,3 +1,10 @@
+## 2025-01-06
+
+Added:
+- [justincormack/nsenter1](https://github.com/justincormack/nsenter1)
+- [terrastruct/d2](https://github.com/terrastruct/d2)
+
+
 ## 2025-01-03
 
 Added:
