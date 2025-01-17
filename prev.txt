@@ -1,3 +1,4 @@
+[wwmm/easyeffects](https://github.com/wwmm/easyeffects)
 [justincormack/nsenter1](https://github.com/justincormack/nsenter1)
 [terrastruct/d2](https://github.com/terrastruct/d2)
 [SukkaW/Make-Bilibili-Great-Than-Ever-Before](https://github.com/SukkaW/Make-Bilibili-Great-Than-Ever-Before)

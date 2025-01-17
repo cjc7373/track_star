@@ -1,3 +1,9 @@
+## 2025-01-17
+
+Added:
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects)
+
+
 ## 2025-01-06
 
 Added:
