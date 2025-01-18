@@ -49,7 +49,7 @@
 [Netflix/bpftop](https://github.com/Netflix/bpftop)
 [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester)
 [friendlyarm/Actions-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt)
-[theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial)
+[chaselambda/makefiletutorial](https://github.com/chaselambda/makefiletutorial)
 [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)
 [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
 [scottbez1/smartknob](https://github.com/scottbez1/smartknob)

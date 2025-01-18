@@ -1,3 +1,13 @@
+## 2025-01-18
+
+Added:
+- [chaselambda/makefiletutorial](https://github.com/chaselambda/makefiletutorial)
+
+
+Deleted:
+- [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial)
+
+
 ## 2025-01-17
 
 Added:
