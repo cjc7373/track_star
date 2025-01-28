@@ -1,3 +1,10 @@
+## 2025-01-28
+
+Added:
+- [althafvly/ih8sn](https://github.com/althafvly/ih8sn)
+- [daibor/bus-route-radiation-map](https://github.com/daibor/bus-route-radiation-map)
+
+
 ## 2025-01-20
 
 Added:
