@@ -1,3 +1,9 @@
+## 2025-01-29
+
+Added:
+- [polarmutex/beancount-language-server](https://github.com/polarmutex/beancount-language-server)
+
+
 ## 2025-01-28
 
 Added:
