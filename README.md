@@ -1,3 +1,10 @@
+## 2025-01-30
+
+Added:
+- [rushiranpise/detection](https://github.com/rushiranpise/detection)
+- [scottyab/rootbeer](https://github.com/scottyab/rootbeer)
+
+
 ## 2025-01-29
 
 Added:

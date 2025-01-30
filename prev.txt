@@ -1,3 +1,5 @@
+[rushiranpise/detection](https://github.com/rushiranpise/detection)
+[scottyab/rootbeer](https://github.com/scottyab/rootbeer)
 [polarmutex/beancount-language-server](https://github.com/polarmutex/beancount-language-server)
 [althafvly/ih8sn](https://github.com/althafvly/ih8sn)
 [daibor/bus-route-radiation-map](https://github.com/daibor/bus-route-radiation-map)
