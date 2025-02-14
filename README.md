@@ -1,3 +1,9 @@
+## 2025-02-14
+
+Added:
+- [cxfksword/jellyfin-plugin-metashark](https://github.com/cxfksword/jellyfin-plugin-metashark)
+
+
 ## 2025-01-30
 
 Added:
