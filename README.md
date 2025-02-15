@@ -1,3 +1,9 @@
+## 2025-02-15
+
+Added:
+- [truenas/apps](https://github.com/truenas/apps)
+
+
 ## 2025-02-14
 
 Added:

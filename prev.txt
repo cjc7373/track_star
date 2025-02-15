@@ -1,3 +1,4 @@
+[truenas/apps](https://github.com/truenas/apps)
 [cxfksword/jellyfin-plugin-metashark](https://github.com/cxfksword/jellyfin-plugin-metashark)
 [rushiranpise/detection](https://github.com/rushiranpise/detection)
 [scottyab/rootbeer](https://github.com/scottyab/rootbeer)
