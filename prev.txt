@@ -300,7 +300,6 @@
 [osdlyrics/osdlyrics](https://github.com/osdlyrics/osdlyrics)
 [openedx/edx-platform](https://github.com/openedx/edx-platform)
 [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
-[django/djangoproject.com](https://github.com/django/djangoproject.com)
 [ovity/octotree](https://github.com/ovity/octotree)
 [lilydjwg/fcitx.vim](https://github.com/lilydjwg/fcitx.vim)
 [botuniverse/onebot](https://github.com/botuniverse/onebot)

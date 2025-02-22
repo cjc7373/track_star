@@ -1,3 +1,9 @@
+## 2025-02-22
+
+Deleted:
+- [django/djangoproject.com](https://github.com/django/djangoproject.com)
+
+
 ## 2025-02-15
 
 Added:
