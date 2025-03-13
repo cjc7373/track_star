@@ -1,3 +1,4 @@
+[douglarek/mihomo-openwrt](https://github.com/douglarek/mihomo-openwrt)
 [truenas/apps](https://github.com/truenas/apps)
 [cxfksword/jellyfin-plugin-metashark](https://github.com/cxfksword/jellyfin-plugin-metashark)
 [rushiranpise/detection](https://github.com/rushiranpise/detection)

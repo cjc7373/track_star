@@ -1,3 +1,9 @@
+## 2025-03-13
+
+Added:
+- [douglarek/mihomo-openwrt](https://github.com/douglarek/mihomo-openwrt)
+
+
 ## 2025-02-22
 
 Deleted:
