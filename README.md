@@ -1,3 +1,14 @@
+## 2025-03-22
+
+Added:
+- [Supporterino/truenas-graphite-to-prometheus](https://github.com/Supporterino/truenas-graphite-to-prometheus)
+- [pgsty/pigsty](https://github.com/pgsty/pigsty)
+
+
+Deleted:
+- [Vonng/pigsty](https://github.com/Vonng/pigsty)
+
+
 ## 2025-03-13
 
 Added:

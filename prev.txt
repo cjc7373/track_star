@@ -1,3 +1,4 @@
+[Supporterino/truenas-graphite-to-prometheus](https://github.com/Supporterino/truenas-graphite-to-prometheus)
 [douglarek/mihomo-openwrt](https://github.com/douglarek/mihomo-openwrt)
 [truenas/apps](https://github.com/truenas/apps)
 [cxfksword/jellyfin-plugin-metashark](https://github.com/cxfksword/jellyfin-plugin-metashark)
@@ -139,7 +140,7 @@
 [typst/typst](https://github.com/typst/typst)
 [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)
 [SamR1/FitTrackee](https://github.com/SamR1/FitTrackee)
-[Vonng/pigsty](https://github.com/Vonng/pigsty)
+[pgsty/pigsty](https://github.com/pgsty/pigsty)
 [wekan/wekan](https://github.com/wekan/wekan)
 [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
 [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview)
