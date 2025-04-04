@@ -1,3 +1,11 @@
+## 2025-04-04
+
+Deleted:
+- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+- [DoubleLabyrinth/navicat-keygen](https://github.com/DoubleLabyrinth/navicat-keygen)
+- [Thinkgamer/books](https://github.com/Thinkgamer/books)
+
+
 ## 2025-03-22
 
 Added:
