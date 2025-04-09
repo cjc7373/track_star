@@ -1,3 +1,9 @@
+## 2025-04-09
+
+Added:
+- [mumu-lhl/Ciyue](https://github.com/mumu-lhl/Ciyue)
+
+
 ## 2025-04-04
 
 Deleted:
