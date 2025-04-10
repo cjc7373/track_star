@@ -1,3 +1,9 @@
+## 2025-04-10
+
+Added:
+- [simulot/immich-go](https://github.com/simulot/immich-go)
+
+
 ## 2025-04-09
 
 Added:
