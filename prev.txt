@@ -1,3 +1,4 @@
+[5mdld/anki-jlpt-decks](https://github.com/5mdld/anki-jlpt-decks)
 [simulot/immich-go](https://github.com/simulot/immich-go)
 [mumu-lhl/Ciyue](https://github.com/mumu-lhl/Ciyue)
 [Supporterino/truenas-graphite-to-prometheus](https://github.com/Supporterino/truenas-graphite-to-prometheus)

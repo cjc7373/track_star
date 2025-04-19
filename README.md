@@ -1,3 +1,9 @@
+## 2025-04-19
+
+Added:
+- [5mdld/anki-jlpt-decks](https://github.com/5mdld/anki-jlpt-decks)
+
+
 ## 2025-04-15
 
 Added:
