@@ -1,3 +1,9 @@
+## 2025-04-20
+
+Added:
+- [codergautam/worldguessr](https://github.com/codergautam/worldguessr)
+
+
 ## 2025-04-19
 
 Added:
