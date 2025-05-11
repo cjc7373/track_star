@@ -1,3 +1,9 @@
+## 2025-05-11
+
+Added:
+- [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen)
+
+
 ## 2025-04-20
 
 Added:
