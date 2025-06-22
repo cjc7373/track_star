@@ -1,3 +1,9 @@
+## 2025-06-22
+
+Added:
+- [SimonMarquis/FCM-toolbox](https://github.com/SimonMarquis/FCM-toolbox)
+
+
 ## 2025-05-11
 
 Added:
