@@ -1,3 +1,9 @@
+## 2025-06-23
+
+Added:
+- [vcb-s/guides](https://github.com/vcb-s/guides)
+
+
 ## 2025-06-22
 
 Added:
