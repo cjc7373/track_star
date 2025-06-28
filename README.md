@@ -1,3 +1,13 @@
+## 2025-06-28
+
+Added:
+- [tursodatabase/turso](https://github.com/tursodatabase/turso)
+
+
+Deleted:
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo)
+
+
 ## 2025-06-23
 
 Added:
