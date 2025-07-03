@@ -1,3 +1,10 @@
+## 2025-07-03
+
+Added:
+- [killergerbah/asbplayer](https://github.com/killergerbah/asbplayer)
+- [verus-lang/verus](https://github.com/verus-lang/verus)
+
+
 ## 2025-06-28
 
 Added:
