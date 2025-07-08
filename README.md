@@ -1,3 +1,9 @@
+## 2025-07-08
+
+Added:
+- [automerge/automerge](https://github.com/automerge/automerge)
+
+
 ## 2025-07-03
 
 Added:
