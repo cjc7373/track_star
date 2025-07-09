@@ -1,3 +1,10 @@
+## 2025-07-09
+
+Added:
+- [KindleModding/WinterBreak](https://github.com/KindleModding/WinterBreak)
+- [notmarek/LanguageBreak](https://github.com/notmarek/LanguageBreak)
+
+
 ## 2025-07-08
 
 Added:
