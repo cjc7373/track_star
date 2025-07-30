@@ -1,3 +1,4 @@
+[Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer)
 [KindleModding/WinterBreak](https://github.com/KindleModding/WinterBreak)
 [notmarek/LanguageBreak](https://github.com/notmarek/LanguageBreak)
 [automerge/automerge](https://github.com/automerge/automerge)

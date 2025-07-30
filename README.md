@@ -1,3 +1,9 @@
+## 2025-07-30
+
+Added:
+- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer)
+
+
 ## 2025-07-09
 
 Added:
