@@ -1,3 +1,10 @@
+## 2025-08-01
+
+Added:
+- [qwqcode/SubRenamer](https://github.com/qwqcode/SubRenamer)
+- [chen08209/FlClash](https://github.com/chen08209/FlClash)
+
+
 ## 2025-07-30
 
 Added:
