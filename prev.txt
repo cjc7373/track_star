@@ -1,3 +1,4 @@
+[skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust)
 [qwqcode/SubRenamer](https://github.com/qwqcode/SubRenamer)
 [chen08209/FlClash](https://github.com/chen08209/FlClash)
 [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer)

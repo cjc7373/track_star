@@ -1,3 +1,9 @@
+## 2025-09-14
+
+Added:
+- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust)
+
+
 ## 2025-08-01
 
 Added:
