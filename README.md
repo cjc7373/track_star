@@ -1,3 +1,9 @@
+## 2025-10-16
+
+Added:
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer)
+
+
 ## 2025-09-14
 
 Added:
