@@ -1,3 +1,9 @@
+## 2025-10-28
+
+Added:
+- [andreasgerstmayr/fava-dashboards](https://github.com/andreasgerstmayr/fava-dashboards)
+
+
 ## 2025-10-16
 
 Added:
