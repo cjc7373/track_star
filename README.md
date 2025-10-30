@@ -1,3 +1,9 @@
+## 2025-10-30
+
+Added:
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
+
+
 ## 2025-10-28
 
 Added:

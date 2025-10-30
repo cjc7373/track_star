@@ -1,3 +1,4 @@
+[kavishdevar/librepods](https://github.com/kavishdevar/librepods)
 [andreasgerstmayr/fava-dashboards](https://github.com/andreasgerstmayr/fava-dashboards)
 [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer)
 [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust)
