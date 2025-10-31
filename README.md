@@ -1,3 +1,9 @@
+## 2025-10-31
+
+Added:
+- [anametologin/krohnkite](https://github.com/anametologin/krohnkite)
+
+
 ## 2025-10-30
 
 Added:

@@ -1,3 +1,4 @@
+[anametologin/krohnkite](https://github.com/anametologin/krohnkite)
 [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
 [andreasgerstmayr/fava-dashboards](https://github.com/andreasgerstmayr/fava-dashboards)
 [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer)
