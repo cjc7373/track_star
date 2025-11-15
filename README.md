@@ -1,3 +1,9 @@
+## 2025-11-15
+
+Added:
+- [alibaba/loongsuite-go-agent](https://github.com/alibaba/loongsuite-go-agent)
+
+
 ## 2025-10-31
 
 Added:
