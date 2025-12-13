@@ -1,3 +1,9 @@
+## 2025-12-13
+
+Added:
+- [carltheperson/earlgreytv](https://github.com/carltheperson/earlgreytv)
+
+
 ## 2025-11-15
 
 Added:
