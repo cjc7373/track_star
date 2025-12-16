@@ -1,3 +1,9 @@
+## 2025-12-16
+
+Added:
+- [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics)
+
+
 ## 2025-12-13
 
 Added:
