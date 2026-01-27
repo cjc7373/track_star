@@ -1,3 +1,13 @@
+## 2026-01-27
+
+Added:
+- [openedx/openedx-platform](https://github.com/openedx/openedx-platform)
+
+
+Deleted:
+- [openedx/edx-platform](https://github.com/openedx/edx-platform)
+
+
 ## 2025-12-18
 
 Deleted:
