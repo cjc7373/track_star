@@ -56,7 +56,7 @@
 [kubernetes-sigs/kube-scheduler-simulator](https://github.com/kubernetes-sigs/kube-scheduler-simulator)
 [rvaiya/keyd](https://github.com/rvaiya/keyd)
 [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles)
-[YaLTeR/niri](https://github.com/YaLTeR/niri)
+[niri-wm/niri](https://github.com/niri-wm/niri)
 [a-b-street/abstreet](https://github.com/a-b-street/abstreet)
 [stefanprodan/timoni](https://github.com/stefanprodan/timoni)
 [felixonmars/fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki)

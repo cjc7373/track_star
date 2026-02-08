@@ -1,3 +1,13 @@
+## 2026-02-08
+
+Added:
+- [niri-wm/niri](https://github.com/niri-wm/niri)
+
+
+Deleted:
+- [YaLTeR/niri](https://github.com/YaLTeR/niri)
+
+
 ## 2026-01-27
 
 Added:
