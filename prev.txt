@@ -210,7 +210,7 @@
 [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud)
 [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition)
 [skywind3000/ECDICT](https://github.com/skywind3000/ECDICT)
-[adamghill/django-unicorn](https://github.com/adamghill/django-unicorn)
+[django-commons/django-unicorn](https://github.com/django-commons/django-unicorn)
 [casey/just](https://github.com/casey/just)
 [twpayne/chezmoi](https://github.com/twpayne/chezmoi)
 [marzzzello/mpv_thumbnail_script](https://github.com/marzzzello/mpv_thumbnail_script)

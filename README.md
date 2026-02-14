@@ -1,3 +1,13 @@
+## 2026-02-14
+
+Added:
+- [django-commons/django-unicorn](https://github.com/django-commons/django-unicorn)
+
+
+Deleted:
+- [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn)
+
+
 ## 2026-02-08
 
 Added:
