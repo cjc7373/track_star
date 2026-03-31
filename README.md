@@ -1,3 +1,9 @@
+## 2026-03-31
+
+Added:
+- [shalva97/kde-configuration-files](https://github.com/shalva97/kde-configuration-files)
+
+
 ## 2026-02-14
 
 Added:
