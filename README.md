@@ -1,3 +1,10 @@
+## 2026-04-09
+
+Added:
+- [kubernetes-sigs/multicluster-runtime](https://github.com/kubernetes-sigs/multicluster-runtime)
+- [dave/jennifer](https://github.com/dave/jennifer)
+
+
 ## 2026-03-31
 
 Added:
