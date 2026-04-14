@@ -1,3 +1,13 @@
+## 2026-04-14
+
+Added:
+- [jfernandez/bpftop](https://github.com/jfernandez/bpftop)
+
+
+Deleted:
+- [Netflix/bpftop](https://github.com/Netflix/bpftop)
+
+
 ## 2026-04-09
 
 Added:

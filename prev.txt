@@ -81,7 +81,7 @@
 [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
 [FranzKafkaYu/AvesLive](https://github.com/FranzKafkaYu/AvesLive)
 [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
-[Netflix/bpftop](https://github.com/Netflix/bpftop)
+[jfernandez/bpftop](https://github.com/jfernandez/bpftop)
 [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester)
 [friendlyarm/Actions-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt)
 [chaselambda/makefiletutorial](https://github.com/chaselambda/makefiletutorial)
