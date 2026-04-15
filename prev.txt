@@ -1,3 +1,5 @@
+[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
 [kubernetes-sigs/multicluster-runtime](https://github.com/kubernetes-sigs/multicluster-runtime)
 [dave/jennifer](https://github.com/dave/jennifer)
 [shalva97/kde-configuration-files](https://github.com/shalva97/kde-configuration-files)

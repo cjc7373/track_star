@@ -1,3 +1,10 @@
+## 2026-04-15
+
+Added:
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
+
+
 ## 2026-04-14
 
 Added:
