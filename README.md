@@ -1,3 +1,12 @@
+## 2026-04-16
+
+Added:
+- [gtoxlili/wechat-finder-dlna](https://github.com/gtoxlili/wechat-finder-dlna)
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
+- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
+- [chenxiaolong/BasicSync](https://github.com/chenxiaolong/BasicSync)
+
+
 ## 2026-04-15
 
 Added:
