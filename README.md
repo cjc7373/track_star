@@ -1,3 +1,10 @@
+## 2026-04-21
+
+Added:
+- [owenthereal/action-upterm](https://github.com/owenthereal/action-upterm)
+- [rui314/chibicc](https://github.com/rui314/chibicc)
+
+
 ## 2026-04-16
 
 Added:
