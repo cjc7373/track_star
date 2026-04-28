@@ -1,3 +1,9 @@
+## 2026-04-28
+
+Added:
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+
+
 ## 2026-04-27
 
 Added:
