@@ -1,3 +1,9 @@
+## 2026-05-15
+
+Added:
+- [ruvnet/RuView](https://github.com/ruvnet/RuView)
+
+
 ## 2026-04-28
 
 Added:
