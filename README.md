@@ -1,3 +1,9 @@
+## 2026-05-31
+
+Added:
+- [sverrejb/slint-kindle-backend](https://github.com/sverrejb/slint-kindle-backend)
+
+
 ## 2026-05-15
 
 Added:
