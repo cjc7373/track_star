@@ -1,3 +1,4 @@
+[densumesh/broccoli](https://github.com/densumesh/broccoli)
 [sverrejb/slint-kindle-backend](https://github.com/sverrejb/slint-kindle-backend)
 [ruvnet/RuView](https://github.com/ruvnet/RuView)
 [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)

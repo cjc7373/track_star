@@ -1,3 +1,9 @@
+## 2026-06-07
+
+Added:
+- [densumesh/broccoli](https://github.com/densumesh/broccoli)
+
+
 ## 2026-05-31
 
 Added:
