@@ -1,3 +1,13 @@
+## 2026-06-10
+
+Added:
+- [alibaba/loongsuite-go](https://github.com/alibaba/loongsuite-go)
+
+
+Deleted:
+- [alibaba/loongsuite-go-agent](https://github.com/alibaba/loongsuite-go-agent)
+
+
 ## 2026-06-07
 
 Added:
