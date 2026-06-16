@@ -1,3 +1,10 @@
+## 2026-06-16
+
+Added:
+- [sannidhyaroy/Soduto](https://github.com/sannidhyaroy/Soduto)
+- [aryarajsingh/KonnectMac](https://github.com/aryarajsingh/KonnectMac)
+
+
 ## 2026-06-10
 
 Added:

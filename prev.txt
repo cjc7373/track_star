@@ -1,3 +1,5 @@
+[sannidhyaroy/Soduto](https://github.com/sannidhyaroy/Soduto)
+[aryarajsingh/KonnectMac](https://github.com/aryarajsingh/KonnectMac)
 [densumesh/broccoli](https://github.com/densumesh/broccoli)
 [sverrejb/slint-kindle-backend](https://github.com/sverrejb/slint-kindle-backend)
 [ruvnet/RuView](https://github.com/ruvnet/RuView)
