@@ -1,3 +1,9 @@
+## 2026-06-18
+
+Added:
+- [jswysnemc/mark-shot](https://github.com/jswysnemc/mark-shot)
+
+
 ## 2026-06-16
 
 Added:
