@@ -19,7 +19,7 @@
 [carltheperson/earlgreytv](https://github.com/carltheperson/earlgreytv)
 [alibaba/loongsuite-go](https://github.com/alibaba/loongsuite-go)
 [anametologin/krohnkite](https://github.com/anametologin/krohnkite)
-[kavishdevar/librepods](https://github.com/kavishdevar/librepods)
+[librepods-org/librepods](https://github.com/librepods-org/librepods)
 [andreasgerstmayr/fava-dashboards](https://github.com/andreasgerstmayr/fava-dashboards)
 [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer)
 [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust)

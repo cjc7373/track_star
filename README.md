@@ -1,3 +1,13 @@
+## 2026-06-24
+
+Added:
+- [librepods-org/librepods](https://github.com/librepods-org/librepods)
+
+
+Deleted:
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
+
+
 ## 2026-06-18
 
 Added:
