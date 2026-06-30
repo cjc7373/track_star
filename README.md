@@ -1,3 +1,13 @@
+## 2026-06-30
+
+Added:
+- [byoungd/up](https://github.com/byoungd/up)
+
+
+Deleted:
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
+
+
 ## 2026-06-24
 
 Added:

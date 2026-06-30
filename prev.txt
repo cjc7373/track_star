@@ -410,5 +410,5 @@
 [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
 [liuchuo/PAT](https://github.com/liuchuo/PAT)
 [lwenxu/jmbits](https://github.com/lwenxu/jmbits)
-[byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
+[byoungd/up](https://github.com/byoungd/up)
 [XX-net/XX-Net](https://github.com/XX-net/XX-Net)
