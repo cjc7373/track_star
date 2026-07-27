@@ -1,3 +1,13 @@
+## 2026-07-27
+
+Added:
+- [DO-SAY-GO/tdf](https://github.com/DO-SAY-GO/tdf)
+
+
+Deleted:
+- [DO-SAY-GO/dn](https://github.com/DO-SAY-GO/dn)
+
+
 ## 2026-07-10
 
 Added:
