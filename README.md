@@ -1,3 +1,13 @@
+## 2026-08-02
+
+Added:
+- [d2lang/d2](https://github.com/d2lang/d2)
+
+
+Deleted:
+- [terrastruct/d2](https://github.com/terrastruct/d2)
+
+
 ## 2026-07-27
 
 Added:
