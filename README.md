@@ -1,3 +1,9 @@
+## 2026-09-21
+
+Added:
+- [Majorfi/immich-stack](https://github.com/Majorfi/immich-stack)
+
+
 ## 2026-08-02
 
 Added:
