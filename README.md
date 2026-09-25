@@ -1,3 +1,13 @@
+## 2026-09-25
+
+Added:
+- [team-spotube/spotube](https://github.com/team-spotube/spotube)
+
+
+Deleted:
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+
+
 ## 2026-09-21
 
 Added:
