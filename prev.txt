@@ -1,3 +1,4 @@
+[crmne/spotifast](https://github.com/crmne/spotifast)
 [Majorfi/immich-stack](https://github.com/Majorfi/immich-stack)
 [Mic92/cntr](https://github.com/Mic92/cntr)
 [jswysnemc/mark-shot](https://github.com/jswysnemc/mark-shot)

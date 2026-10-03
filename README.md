@@ -1,3 +1,9 @@
+## 2026-10-03
+
+Added:
+- [crmne/spotifast](https://github.com/crmne/spotifast)
+
+
 ## 2026-09-25
 
 Added:
