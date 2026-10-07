@@ -1,3 +1,9 @@
+## 2026-10-07
+
+Added:
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
+
 ## 2026-10-03
 
 Added:
