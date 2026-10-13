@@ -1,3 +1,9 @@
+## 2026-10-13
+
+Added:
+- [amber-lang/amber](https://github.com/amber-lang/amber)
+
+
 ## 2026-10-07
 
 Added:

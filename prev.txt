@@ -1,3 +1,4 @@
+[amber-lang/amber](https://github.com/amber-lang/amber)
 [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 [crmne/spotifast](https://github.com/crmne/spotifast)
 [Majorfi/immich-stack](https://github.com/Majorfi/immich-stack)
