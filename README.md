@@ -1,3 +1,10 @@
+## 2026-10-21
+
+Added:
+- [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative)
+- [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck)
+
+
 ## 2026-10-13
 
 Added:
