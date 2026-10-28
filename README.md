@@ -1,3 +1,9 @@
+## 2026-10-28
+
+Added:
+- [hydro-project/hydro](https://github.com/hydro-project/hydro)
+
+
 ## 2026-10-21
 
 Added:

@@ -1,3 +1,4 @@
+[hydro-project/hydro](https://github.com/hydro-project/hydro)
 [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative)
 [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck)
 [amber-lang/amber](https://github.com/amber-lang/amber)
